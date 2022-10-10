@@ -1,0 +1,20 @@
+#add-button{
+  right: 40px;
+  bottom: 40px;
+  left: auto;
+  position: fixed;
+}
+.heroes-table {    display: flex;
+  justify-content: center;
+}
+
+#search {
+  text-align: center;
+}
+
+.search-field {
+  width: 50%;
+  min-width: 250px;
+  max-width: 1000px;
+  padding-top: 10px;
+}
